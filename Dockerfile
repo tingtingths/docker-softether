@@ -1,7 +1,6 @@
 # SoftEther VPN server
 
 FROM debian:8
-MAINTAINER Frank Rosquin <frank.rosquin@gmail.com>
 
 ENV VERSION v4.34-9745-rtm-2020.04.05
 WORKDIR /usr/local/vpnserver
