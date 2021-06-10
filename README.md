@@ -6,7 +6,7 @@ Available on [Docker Hub](https://registry.hub.docker.com/u/frosquin/softether/)
 
 ## Download
 
-    docker pull frosquin/softether
+    docker pull tingtingths/softether-vpn
 
 ## Run
 
